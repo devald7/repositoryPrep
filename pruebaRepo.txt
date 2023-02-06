@@ -1,0 +1,1 @@
+Estoy probando Git Bash y mis primeros comandos para familiarizarme con las líneas de comando; me gusta mucho no cabe duda.
